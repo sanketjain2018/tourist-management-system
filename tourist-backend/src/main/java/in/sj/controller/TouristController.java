@@ -26,6 +26,7 @@ public class TouristController {
 	
 	@PostMapping
 	public TouristResponseDto create(@RequestBody TouristRequestDto dto) {
+		System.out.println("create user ");
 		return service.register(dto);
 	}
 	
