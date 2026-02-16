@@ -18,7 +18,7 @@ import in.sj.service.TouristService;
 public class TouristController {
 	
 	
-	// 
+	// final 
 	private final TouristService service;
 	
 	public TouristController(TouristService service) {
