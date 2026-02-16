@@ -17,7 +17,7 @@ import in.sj.service.TouristService;
 @RequestMapping("/api/tourists")
 public class TouristController {
 	// test commit from STS
-	// for gitcode creadintionals
+	// for gitcode creadintion
 	
 	private final TouristService service;
 	
