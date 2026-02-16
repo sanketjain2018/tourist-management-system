@@ -17,7 +17,7 @@ import in.sj.service.TouristService;
 @RequestMapping("/api/tourists")
 public class TouristController {
 	
-	// problem solved
+	
 	
 	private final TouristService service;
 	
